@@ -1,0 +1,17 @@
+
+The below items are concepts that everyone should look to apply as custom detections whenever you deploy an EDR tool. Take consideration for criticality and your own triage flows.
+
+	1. Tampering with sensors or other security products. 
+	2. Scripts inside temporary directories.
+	3. Known bad drivers (https://github.com/eclypsium/Screwed-Drivers/blob/master/DRIVERS.md).
+	4. LOLBAS rename attempts (https://lolbas-project.github.io/)
+	5. Windows Firewall Disabled
+	6. Copying of browser data stores
+	7. Disabling of UAC
+	8. WMI Executing files
+	9. Shadow Volumes being deleted
+	10. Device being set to safemode using bcdedit cmdline
+	
+	
+	
+	
