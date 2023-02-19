@@ -11,6 +11,7 @@ The below items are concepts that everyone should look to apply as custom detect
 	8. WMI Executing files
 	9. Shadow Volumes being deleted
 	10. Device being set to safemode using bcdedit cmdline
+	11. unauthorized RMM tools use
 	
 	
 	
