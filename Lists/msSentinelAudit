@@ -1,0 +1,18 @@
+Microsoft Sentinel Audit Items
+
+	• Free Data Connectors
+		○ Azure Activity
+		○ Office 365 SharePoint
+		○ Office 365 Exchange 
+		○ Office 365 Teams
+		○ Defender for Cloud
+	• User Entity Behaviour Analytics
+	• Repositories
+	• Anomalies
+	• Watchlist
+		○ High Value Asset
+		○ VIP Users
+		○ Terminated Employees
+	• Data Retention set to 90 Days
+	• Playbook Permissions
+	• Health Monitoring
